@@ -4,7 +4,7 @@ Array.prototype.random = function() {
 
 var Game = {
 	DEPTH: 20,
-	WIDTH: 10,
+	WIDTH: 100,
 	CELL: 25,
 	INTERVAL_ENGINE: 1000,
 	INTERVAL_ATTACKER: 100,
